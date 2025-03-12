@@ -1,1 +1,1 @@
-# this repo is local and add to github via git init
+# this repo is local and added to github via git init
